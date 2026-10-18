@@ -1,5 +1,5 @@
 
-public class ITxxxxxxxxxLab2Q2 {
+public class IT26102751Lab2Q2 {
     public static void main(String[] args) {
 
         double length = 10;
