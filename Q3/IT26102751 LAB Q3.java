@@ -1,5 +1,5 @@
 
-public class ITxxxxxxxxxLab2Q3 {
+public class IT26102751Lab2Q3 {
     public static void main(String[] args) {
 
         double sideA = 3;
